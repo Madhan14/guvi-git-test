@@ -5,5 +5,3 @@ HII
 This is branch command test
 
 Yelooo All How Are you!?
-
-Hi :))
